@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\bin\Debug\netcoreapp3.1\homework2603.exe
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\bin\Debug\netcoreapp3.1\homework2603.deps.json
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\bin\Debug\netcoreapp3.1\homework2603.runtimeconfig.json
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\bin\Debug\netcoreapp3.1\homework2603.runtimeconfig.dev.json
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\bin\Debug\netcoreapp3.1\homework2603.dll
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\bin\Debug\netcoreapp3.1\homework2603.pdb
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\obj\Debug\netcoreapp3.1\homework2603.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\obj\Debug\netcoreapp3.1\homework2603.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\obj\Debug\netcoreapp3.1\homework2603.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\obj\Debug\netcoreapp3.1\homework2603.AssemblyInfo.cs
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\obj\Debug\netcoreapp3.1\homework2603.dll
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\obj\Debug\netcoreapp3.1\homework2603.pdb
+C:\Users\HP\Desktop\projects\new lessons\fourthLesson\homeWork\homework2603\obj\Debug\netcoreapp3.1\homework2603.genruntimeconfig.cache
